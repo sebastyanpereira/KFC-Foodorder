@@ -5,9 +5,9 @@ public class Burger {
     String name;
     String imageUrl;
     int cost;
-    int weight;
+    int weightPerGramm;
     String description;
-    int energyValue;
+    int energyValueCalorie;
     double proteinQuantity;
     double fatQuantity;
     double carbohydrateQuantity;
